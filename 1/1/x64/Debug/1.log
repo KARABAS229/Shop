@@ -1,0 +1,6 @@
+﻿  Operations.cpp
+D:\Visual Studio\1\1\Operations.cpp(77,36): warning C4244: +=: преобразование "double" в "short", возможна потеря данных
+D:\Visual Studio\1\1\Operations.cpp(58,6): warning C4101: value: неиспользованная локальная переменная
+  main.cpp
+  Создание кода...
+  1.vcxproj -> D:\Visual Studio\1\x64\Debug\1.exe
